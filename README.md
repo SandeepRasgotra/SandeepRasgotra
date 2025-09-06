@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi 👋, I'm Sandeep Rasgotra  
 
-<!--
-**SandeepRasgotra/SandeepRasgotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+linkedin.com/in/sandeep-rasgotra-470a451a  
+Technical Architect – Full Stack Development & .NET Architecture 🇮🇳  
+ 
 
-Here are some ideas to get you started:
+🔭 I’m leading architecture and development of enterprise applications using .NET Core, React, Microservices, EF Core, Redis, and SQL Server.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on .NET, Kafka, System Design, and Architecture-driven projects.  
+
+👨‍💻 All of my projects are available at https://github.com/SandeepRasgotra?tab=repositories  
+
+💬 Ask me about: .NET Core, Kafka, Microservices, Distributed Systems, System Design, and Software Architecture   
+
+⚡ Passionate about building scalable, high-performance systems.  
+
+---
+
+### Skills  
+
+csharp dotnet core webapi microservices react aspnetmvc sqlserver postgresql redis kafka aws systemdesign softwarearchitecture git jira visualstudio  
